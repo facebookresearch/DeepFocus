@@ -1,0 +1,6 @@
+model_checkpoint_path: "model-best.ckpt-396"
+all_model_checkpoint_paths: "model-best.ckpt-363"
+all_model_checkpoint_paths: "model-best.ckpt-366"
+all_model_checkpoint_paths: "model-best.ckpt-375"
+all_model_checkpoint_paths: "model-best.ckpt-390"
+all_model_checkpoint_paths: "model-best.ckpt-396"

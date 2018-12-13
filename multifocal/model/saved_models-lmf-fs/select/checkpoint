@@ -1,0 +1,6 @@
+model_checkpoint_path: "model-best.ckpt-170"
+all_model_checkpoint_paths: "model-best.ckpt-161"
+all_model_checkpoint_paths: "model-best.ckpt-163"
+all_model_checkpoint_paths: "model-best.ckpt-168"
+all_model_checkpoint_paths: "model-best.ckpt-169"
+all_model_checkpoint_paths: "model-best.ckpt-170"

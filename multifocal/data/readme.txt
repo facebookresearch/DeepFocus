@@ -1,0 +1,1 @@
+upzip the files to the same folder, make sure the file path follow "multifocal/data/seed*/..."

@@ -7,4 +7,4 @@ If you use our code, please cite our paper: Lei Xiao, Anton Kaplanyan, Alexander
 The technical paper, video and more supplementary materials can be found at: https://research.fb.com/publications/deepfocus-learned-image-synthesis-for-computational-display/
 
 ## License
-DeepFocus is FAIR-licensed, as found in the LICENSE file.
+DeepFocus is FAIR licensed, as found in the LICENSE file.

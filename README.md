@@ -1,6 +1,6 @@
 ## DeepFocus
 
-This repository provides source code, network models and dataset of the DeepFocus project from Facebook Reality Labs.
+This repository provides source code, network models and dataset (~17GB) of the DeepFocus project from Facebook Reality Labs.
 
 The source code and network models were implemented with TensorFlow and 32-bit precision. To further improve the runtime performance of the method, we recommond use of NVIDIA TensorRT toolbox to optimize the network inferences with 16-bit precision on your test machines. In general, we observed very minor quality decrease (less than 0.01dB in PSNR) while about 8 times speed up after the inference optimization. 
 

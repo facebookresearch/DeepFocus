@@ -1,3 +1,5 @@
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
+
 import numpy as np
 from PIL import Image
 import matplotlib.pyplot as plt

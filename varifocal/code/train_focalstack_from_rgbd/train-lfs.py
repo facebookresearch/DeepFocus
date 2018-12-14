@@ -1,3 +1,5 @@
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
+
 # DeepFocus source code
 # Non-Commercial use only
 # Lei Xiao (lei.xiao@fb.com)

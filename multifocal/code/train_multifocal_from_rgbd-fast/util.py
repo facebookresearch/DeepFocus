@@ -1,3 +1,6 @@
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
+
+
 import numpy as np
 import tensorflow as tf
 import math, cv2

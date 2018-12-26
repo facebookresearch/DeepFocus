@@ -9,7 +9,7 @@ If you use this code and/or dataset, please cite the publication: Lei Xiao, Anto
 The technical paper, video, and more supplementary materials can be found at:
 https://research.fb.com/publications/deepfocus-siggraph-asia-2018/
 
-Check out our Oculus Blog post that introduces DeepFocus:
+Check out our Oculus blog post that introduces DeepFocus:
 https://www.oculus.com/blog/introducing-deepfocus-the-ai-rendering-system-powering-half-dome/
 
 ## License

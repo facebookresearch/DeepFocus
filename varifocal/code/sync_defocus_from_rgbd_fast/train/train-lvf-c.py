@@ -329,7 +329,7 @@ with tf.Session() as sess:
                         validation_summ.value.add(tag="validation psnr intensity (%s)" % TF_SUMMARY_FLAG, simple_value=ell_psnr_eval_mean)
                         print("training epoch %d, period %d, psnr intensity (validate): %f" % (e, i, ell_psnr_eval_mean))
 
-                        ell_ssim_eval_mean = 1.-np.mean(ell_ssim_eval_mean)                        
+                        ell_ssim_eval_mean = np.mean(ell_ssim_eval_mean)                        
                         validation_summ.value.add(tag="validation ssim (%s)" % TF_SUMMARY_FLAG, simple_value=ell_ssim_eval_mean)
                         print("training epoch %d, period %d, ssim intensity (validate): %f" % (e, i, ell_ssim_eval_mean))
                         

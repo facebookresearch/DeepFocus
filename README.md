@@ -12,5 +12,8 @@ https://research.fb.com/publications/deepfocus-siggraph-asia-2018/
 Check out our Oculus blog post that introduces DeepFocus:
 https://www.oculus.com/blog/introducing-deepfocus-the-ai-rendering-system-powering-half-dome/
 
+## Learn more in this intro video
+[![Explain Like I’m 5: DeepFocus](https://img.youtube.com/vi/tGVvUIAHfns/0.jpg)](https://www.youtube.com/watch?v=tGVvUIAHfns)
+
 ## License
 DeepFocus is CC-BY-NC 4.0 (FAIR License) licensed, as found in the LICENSE file.
